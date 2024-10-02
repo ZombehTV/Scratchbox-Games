@@ -1,17 +1,17 @@
 {
+  "x0qubi": {
+    "framerate": 30,
+    "width": 480,
+    "height": 360
+  },
   "quw4gg": {
     "framerate": 60,
     "width": 480,
     "height": 360
   },
-  "abc123": {
-    "framerate": 30,
-    "width": 640,
-    "height": 480
-  },
-  "xyz789": {
-    "framerate": 24,
-    "width": 1280,
-    "height": 720
+  "syuifi": {
+    "framerate": 60,
+    "width": 480,
+    "height": 360
   }
 }
