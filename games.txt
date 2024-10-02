@@ -1,0 +1,26 @@
+[
+  {
+    "downloadCode": "quw4gg",
+    "properties": {
+      "framerate": 60,
+      "width": 480,
+      "height": 360
+    }
+  },
+  {
+    "downloadCode": "abc123",
+    "properties": {
+      "framerate": 30,
+      "width": 640,
+      "height": 480
+    }
+  },
+  {
+    "downloadCode": "xyz789",
+    "properties": {
+      "framerate": 24,
+      "width": 1280,
+      "height": 720
+    }
+  }
+]
